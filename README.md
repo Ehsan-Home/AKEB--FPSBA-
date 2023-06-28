@@ -23,8 +23,6 @@ The transparent, decentralized, and immutable properties of public blockchains m
 ### Logo
 [Blockchain icons created by Parzival’ 1997 - Flaticon](https://www.flaticon.com/free-icons/blockchain)
 
-<hr>
-
 **Note:** All rights reserved. This project may not be reproduced in whole or in part, by photocopy or other means, without the permission of the author
 
 @ Ehsan Ghasaei, 2023, Univeristy of Victoria (UVIC)
